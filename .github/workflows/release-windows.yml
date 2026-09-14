@@ -1,8 +1,6 @@
 name: Release ProxyBridge Windows
 
 on:
-  release:
-    types: [published, created]
   workflow_dispatch:
 
 permissions:
